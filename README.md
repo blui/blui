@@ -31,22 +31,6 @@ Throughout my career, I’ve contributed to high-impact projects, collaborating 
 
 ---
 
-## 💼 Experience Highlights
-
-### **Metro Vancouver** — *Software QA Tester*  
-*May 2024 - Present (6 months)*  
-Ensuring software quality and reliability for applications critical to the Vancouver region, supporting essential infrastructure with a focus on performance and stability.
-
-### **Avato Systems** — *Lead QA Engineer*  
-*August 2022 - April 2024*  
-At Avato, I led QA efforts for a hybrid integration platform, ensuring quality in regulated, complex environments. My role included overseeing cloud deployments on AWS and Azure, implementing CI/CD pipelines, and facilitating seamless project delivery.
-
-### **Workday** — *Quality Assurance Engineer*  
-*July 2021 - August 2022*  
-Served as a Quality Assurance Engineer in the Financials Projects pillar, enhancing the reliability of cloud-based financial management software and collaborating across teams for optimal testing practices.
-
----
-
 ## 📖 Fun Facts
 
 - 🎮 Passionate about Dota 2 and enjoy the strategy and teamwork involved in the game.
